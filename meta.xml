@@ -1,5 +1,4 @@
 <meta>
-	<info author="Guilherme" name="Pegar carro por comando" version="1.0.0"/>
-	
-	<script src="settCarro.lua" type="server"/>
+	<info author="Guilherme" name="Pegar carro" version="1.0.0"/>
+	<script src="pegarCarro.lua" type="server"/>
 </meta>
