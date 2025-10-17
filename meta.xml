@@ -1,5 +1,5 @@
 <meta>
 	<info author="Guilherme" name="Pegar dinheiro por comando" version="1.0.0"/>
-	<ped model="63" posX="387.15396118164" posY=" -2063.9445800781" posZ="7.8359375" />
-	<script src="addPed.lua" type="server"/>
+	
+	<script src="pegarDinheiro.lua" type="server"/>
 </meta>
