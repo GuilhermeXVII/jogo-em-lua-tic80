@@ -1,5 +1,5 @@
 <meta>
-	<info author="Guilherme" name="Pegar dinheiro por comando" version="1.0.0"/>
+	<info author="Guilherme" name="Pegar carro por comando" version="1.0.0"/>
 	
-	<script src="pegarDinheiro.lua" type="server"/>
+	<script src="settCarro.lua" type="server"/>
 </meta>
